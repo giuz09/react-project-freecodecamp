@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# What is this project about?
+
+This project is a course exercises of React from [Aprende React](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=10169s). The project consiste in a clone of the [freecodecamp](https://www.freecodecamp.org/) testimonials module using react. 
+# Getting Started with Create React App. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
